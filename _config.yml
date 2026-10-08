@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Tiara Magda Natania Sianipar / Site Title"
 title_separator          : "-"
 name                     : &name "Tiara Magda Natania Sianipar"
@@ -24,11 +24,11 @@ repository               : "tiara264/tiara264.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tiara"
+  name             : "Tiara Magda Natania Sianipar"
   pronouns         : "She/Her"
   bio              : "Physics Student"
   location         : "Tangerang Selatan, Indonesia"
-  employer         : "Diponeforo University"
+  employer         : "Diponegoro University"
   uri              : # URL
   email            : "tiarasianipar264@gmail.com" 
 
